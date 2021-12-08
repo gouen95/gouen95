@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Gouen
+
+- 🔭 I’m currently working on a few challenging mobile app.
+- 🌱 I’m currently learning Metal/OpenGL, on my free time I'm learning to code the web.
+- 📫 My email: gouen1995@gmail.com
+- 🤔 Interested in game mechanic / combat system design.
 
 <!--
 **gouen95/gouen95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
