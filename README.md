@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gouen
 
-- 🔭 I’m currently working on a few challenging mobile app.
+- 🔭 I’m currently working on a few challenging mobile art/design based app.
 - 🌱 I’m currently learning Metal/OpenGL, on my free time I'm learning to code the web.
 - 📫 My email: gouen1995@gmail.com
 - 🤔 Interested in game mechanic / combat system design.
