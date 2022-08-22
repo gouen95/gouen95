@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a few challenging mobile art/design based app.
 - 🌱 I’m currently learning Metal/OpenGL.
 - 📫 My email: gouen1995@gmail.com
-- 🤔 Interested in game mechanic / combat system design.
+- 🤔 Interested in game mechanic / combat system design, I play games with a competitive mindset.
 
 #### Work/Career
 I currently work for Pixlr Team at Inmagine Group, as a Mobile Application Developer. [App Store](https://apps.apple.com/us/developer/inmagine-lab-pte-ltd/id1531250254)
