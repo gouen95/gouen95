@@ -6,7 +6,7 @@
 - 🤔 Interested in game mechanic / combat system design.
 
 #### Work/Career
-I currently work for Pixlr Team at Inmagine Group, as a Mobile Application Developer.
+I currently work for Pixlr Team at Inmagine Group, as a Mobile Application Developer. [App Store](https://apps.apple.com/us/developer/inmagine-lab-pte-ltd/id1531250254)
 
 #### Some of My Projects
 - [MVVMC Template](https://github.com/gouen95/mvvmc-xctemplate) - A custom XCode template to ease the developer from creating tedious and repetitive MVVMC structures.
