@@ -1,9 +1,17 @@
-### Hi there 👋 I'm Gouen
+### Hi there 👋 I'm Brandon 'Gouen' Wong
 
 - 🔭 I’m currently working on a few challenging mobile art/design based app.
-- 🌱 I’m currently learning Metal/OpenGL, on my free time I'm learning to code the web.
+- 🌱 I’m currently learning Metal/OpenGL.
 - 📫 My email: gouen1995@gmail.com
 - 🤔 Interested in game mechanic / combat system design.
+
+#### Work/Career
+I currently work for Pixlr Team at Inmagine Group, as a Mobile Application Developer.
+
+#### Some of My Projects
+- [MVVMC Template](https://github.com/gouen95/mvvmc-xctemplate) - A custom XCode template to ease the developer from creating tedious and repetitive MVVMC structures.
+- [Plugman for Ionic2 Guide](https://github.com/gouen95/Plugman-ionic2-plugin-config) - A guide/walkthrough on how to create a plugin for Ionic2(outdated)
+- [Geofencing Example](https://github.com/gouen95/SlateGeoFencingExample) - A working example project demonstrating the functionality of Geofencing on mobile.
 
 <!--
 **gouen95/gouen95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
