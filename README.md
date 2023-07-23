@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Brandon 'Gouen' Wong
 
-- 🔭 I’m currently working on a few challenging mobile art/design based app.
+- 🔭 I’m currently working on a few challenging mobile create design based app.
 - 🌱 I’m currently learning Metal/OpenGL.
 - 📫 My email: gouen1995@gmail.com
 - 🤔 Interested in game mechanic / combat system design, I play games with a competitive fairness mindset.
