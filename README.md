@@ -6,9 +6,9 @@
 - 🤔 Hobby in gaming, interested in game mechanic / combat system design, I play games with a competitive fairness mindset.
 
 #### Work/Career
-I currently work for Pixlr Team at Inmagine Group, as a Mobile Application Developer. [App Store](https://apps.apple.com/us/developer/inmagine-lab-pte-ltd/id1531250254)
+I currently work for Pixlr Sdn Bhd, as an iOS Mobile Application Developer. [App Store](https://apps.apple.com/us/developer/pixlr-pte-ltd/id1699329511)
 
-#### Some of My Projects
+#### Some of my public projects
 - [MVVMC Template](https://github.com/gouen95/mvvmc-xctemplate) - A custom XCode template to ease the developer from creating tedious and repetitive MVVMC structures.
 - [Plugman for Ionic2 Guide](https://github.com/gouen95/Plugman-ionic2-plugin-config) - A guide/walkthrough on how to create a plugin for Ionic2(outdated)
 - [Geofencing Example](https://github.com/gouen95/SlateGeoFencingExample) - A working example project demonstrating the functionality of Geofencing on mobile.
