@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a few challenging mobile create design based app.
 - 🌱 I’m currently learning Metal/OpenGL.
-- 📫 My email: [gouen1995@gmail.co](mailto:gouen1995@gmail.co?subject=[GitHub]%Subject)
+- 📫 My email: [gouen1995@gmail.com](mailto:gouen1995@gmail.com?subject=[GitHub]%Subject)
 - 🤔 Hobby in travelling and gaming, interested in game mechanic / combat system design, I play games with a competitive fairness mindset.
 
 #### Work/Career
