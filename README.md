@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Brandon 'Gouen' Wong Ka Seng
 
 - 🔭 I’m currently working on a few challenging mobile create design based app.
-- 🌱 I’m currently learning Metal/OpenGL.
+- 🌱 I’m currently learning Metal/OpenGL, business startup, and monetizations.
 - 📫 My email: [gouen1995@gmail.com](mailto:gouen1995@gmail.com?subject=[GitHub]%Subject)
 - 🤔 Hobby in travelling and gaming, interested in game mechanic / combat system design, I play games with a competitive fairness mindset.
 
