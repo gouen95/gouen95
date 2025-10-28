@@ -6,7 +6,7 @@
 - 🤔 Hobby in travelling and gaming, interested in game mechanic / combat system design, I play games with a competitive fairness mindset.
 
 #### Work/Career
-- I currently work for @grab, as an iOS Mobile Application Developer.
+- I currently work for [Grab](https://github.com/grab), as an iOS Mobile Application Developer.
 - My personal Apple App Store portfolio - [App Store](https://apps.apple.com/developer/ka-seng-wong/id1741207386)
 
 #### Some of my public projects
